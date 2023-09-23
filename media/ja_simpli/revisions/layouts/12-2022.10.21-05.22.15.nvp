@@ -1,0 +1,88 @@
+layoutContainer: 1
+layoutEnable_header: 1
+layoutContainer_header: 0
+layoutBackground_header: images/banner_nuevo_physicanim_web.png#joomlaImage://local-images/banner_nuevo_physicanim_web.png?width=1500&height=124
+layoutSticky_header: 1
+layoutWidth_header_left: 4
+layoutEnable_header_right: 1
+layoutPos_header_right: social-links
+layoutWidth_header_right: 10
+layoutEnable_nav: 1
+layoutContainer_nav: 
+layoutBackground_nav: 
+layoutSticky_nav: 0
+layoutPos_nav_left: position-1
+layoutWidth_nav_left: 9
+layoutEnable_nav_right: 1
+layoutPos_nav_right: social-links
+layoutWidth_nav_right: 
+layoutName_top_1: 
+layoutPos_top_1: lp-top-1
+layoutWidth_top_1: 
+layoutTitle_top_1: 
+layoutDesc_top_1: 
+layoutContainer_top_1: 
+layoutBackground_top_1: 
+layoutName_top_2: 
+layoutPos_top_2: lp-top-1
+layoutWidth_top_2: 
+layoutTitle_top_2: 
+layoutDesc_top_2: 
+layoutContainer_top_2: 
+layoutBackground_top_2: 
+layoutName_top_3: 
+layoutPos_top_3: lp-top-1
+layoutWidth_top_3: 
+layoutTitle_top_3: 
+layoutDesc_top_3: 
+layoutContainer_top_3: 
+layoutBackground_top_3: 
+layoutName_top_4: 
+layoutPos_top_4: lp-top-1
+layoutWidth_top_4: 
+layoutTitle_top_4: 
+layoutDesc_top_4: 
+layoutContainer_top_4: 
+layoutBackground_top_4: 
+layoutEnable_content: 1
+layoutPosition_content: left
+layoutContainer_content: 
+layoutBackground_content: 
+layoutEnable_col_1: 1
+layoutPos_col_1: banner
+layoutWidth_col_1: 2
+layoutEnable_col_2: 1
+layoutPos_col_2: position-5
+layoutWidth_col_2: 3
+layoutName_bot_1: 
+layoutPos_bot_1: lp-top-1
+layoutWidth_bot_1: 
+layoutTitle_bot_1: 
+layoutDesc_bot_1: 
+layoutContainer_bot_1: 
+layoutBackground_bot_1: 
+layoutName_bot_2: 
+layoutPos_bot_2: lp-top-1
+layoutWidth_bot_2: 
+layoutTitle_bot_2: 
+layoutDesc_bot_2: 
+layoutContainer_bot_2: 
+layoutBackground_bot_2: 
+layoutName_bot_3: 
+layoutPos_bot_3: lp-top-1
+layoutWidth_bot_3: 
+layoutTitle_bot_3: 
+layoutDesc_bot_3: 
+layoutContainer_bot_3: 
+layoutBackground_bot_3: 
+layoutName_bot_4: 
+layoutPos_bot_4: lp-top-1
+layoutWidth_bot_4: 
+layoutTitle_bot_4: 
+layoutDesc_bot_4: 
+layoutContainer_bot_4: 
+layoutBackground_bot_4: 
+layoutPos_footer: lp-top-1
+layoutWidth_footer: 
+layoutContainer_footer: 
+layoutBackground_footer: 

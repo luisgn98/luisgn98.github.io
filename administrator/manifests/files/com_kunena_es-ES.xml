@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE extension>
+<extension type="file" version="2.5" method="upgrade">
+    <name>Kunena Language - Spanish (Spain)</name>
+    <version>6.0.2</version>
+    <creationDate>2022-08-15</creationDate>
+    <build>6.0.2</build>
+    <author>Kunena Team</author>
+    <authorEmail>translations@kunena.org</authorEmail>
+    <authorUrl>https://www.transifex.com/projects/p/Kunena/team/es_ES/</authorUrl>
+    <copyright>(C) 2008 - 2022 Kunena Team. All rights reserved.</copyright>
+    <license>GNU/GPL</license>
+    <description>Spanish (Spain) language file for Kunena Forum Component</description>
+
+    <fileset>
+        <files folder="admin" target="administrator/language/es-ES">
+            <filename>es-ES.com_kunena.controllers.ini</filename>
+            <filename>es-ES.com_kunena.ini</filename>
+            <filename>es-ES.com_kunena.libraries.ini</filename>
+            <filename>es-ES.com_kunena.models.ini</filename>
+            <filename>es-ES.com_kunena.sys.ini</filename>
+            <filename>es-ES.com_kunena.views.ini</filename>
+        </files>
+        <files folder="site" target="language/es-ES">
+            <filename>es-ES.com_kunena.ini</filename>
+            <filename>es-ES.com_kunena.models.ini</filename>
+            <filename>es-ES.com_kunena.templates.ini</filename>
+            <filename>es-ES.com_kunena.views.ini</filename>
+            <filename>es-ES.kunena_tmpl_aurelia.ini</filename>
+        </files>
+    </fileset>
+</extension>

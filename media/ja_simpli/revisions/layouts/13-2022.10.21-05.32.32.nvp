@@ -1,0 +1,90 @@
+layoutContainer: 1
+layoutEnable_header: 1
+layoutContainer_header: 0
+layoutBackground_header: 
+layoutSticky_header: 0
+layoutWidth_header_left: 2
+layoutEnable_header_right: 1
+layoutPos_header_right: social-links
+layoutWidth_header_right: 10
+layoutEnable_nav: 1
+layoutContainer_nav: 
+layoutBackground_nav: 
+layoutSticky_nav: 0
+layoutPos_nav_left: position-1
+layoutWidth_nav_left: 12
+layoutEnable_nav_right: 0
+layoutPos_nav_right: position-1
+layoutWidth_nav_right: 
+layoutEnable_top_1: 1
+layoutName_top_1: hero
+layoutPos_top_1: banner
+layoutWidth_top_1: 
+layoutClass_top_1: bg-color
+layoutTitle_top_1: 
+layoutDesc_top_1: 
+layoutContainer_top_1: 
+layoutBackground_top_1: 
+layoutName_top_2: 
+layoutPos_top_2: banner
+layoutWidth_top_2: 
+layoutTitle_top_2: 
+layoutDesc_top_2: 
+layoutContainer_top_2: 
+layoutBackground_top_2: 
+layoutName_top_3: 
+layoutPos_top_3: banner
+layoutWidth_top_3: 
+layoutTitle_top_3: 
+layoutDesc_top_3: 
+layoutContainer_top_3: 
+layoutBackground_top_3: 
+layoutName_top_4: 
+layoutPos_top_4: banner
+layoutWidth_top_4: 
+layoutTitle_top_4: 
+layoutDesc_top_4: 
+layoutContainer_top_4: 
+layoutBackground_top_4: 
+layoutEnable_content: 0
+layoutPosition_content: right
+layoutContainer_content: 
+layoutBackground_content: 
+layoutEnable_col_1: 0
+layoutPos_col_1: banner
+layoutWidth_col_1: 3
+layoutEnable_col_2: 0
+layoutPos_col_2: banner
+layoutWidth_col_2: 3
+layoutName_bot_1: 
+layoutPos_bot_1: banner
+layoutWidth_bot_1: 
+layoutTitle_bot_1: 
+layoutDesc_bot_1: 
+layoutContainer_bot_1: 
+layoutBackground_bot_1: 
+layoutName_bot_2: 
+layoutPos_bot_2: banner
+layoutWidth_bot_2: 
+layoutTitle_bot_2: 
+layoutDesc_bot_2: 
+layoutContainer_bot_2: 
+layoutBackground_bot_2: 
+layoutName_bot_3: 
+layoutPos_bot_3: banner
+layoutWidth_bot_3: 
+layoutTitle_bot_3: 
+layoutDesc_bot_3: 
+layoutContainer_bot_3: 
+layoutBackground_bot_3: 
+layoutName_bot_4: 
+layoutPos_bot_4: banner
+layoutWidth_bot_4: 
+layoutTitle_bot_4: 
+layoutDesc_bot_4: 
+layoutContainer_bot_4: 
+layoutBackground_bot_4: 
+layoutPos_footer: banner
+layoutWidth_footer: 
+layoutContainer_footer: 
+layoutBackground_footer: 

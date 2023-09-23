@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"",
+"lineCount":1,
+"mappings":"AAMAA,QAASA,mBAAkB,CAACC,CAAD,CAAgBC,CAAhB,CAAyB,CAChDC,QAASC,CAAAA,cAAT,CAAwBH,CAAxB,CAAuCI,CAAAA,QAAvC,CAAkDH,CADF;",
+"sources":["ConfigForm.js"],
+"names":["toggleWriteability","id_of_patient","checked","document","getElementById","disabled"]
+}
